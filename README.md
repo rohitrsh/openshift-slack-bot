@@ -35,3 +35,11 @@ Note, this script utilizes the oc cli client, a wrapper for the `oc` command.
 ## NPM Module
 
 https://www.npmjs.com/package/hubot-openshift-slack-bot
+
+
+## Improvements
+If you like any of these ideas and want to see them, or if you have any cool ideas of your own, let me know at rohitrsh@gmail.com - thanks!
+
+Add more commands, it would be very cool to have a that mimic the behavior of the oc command
+
+
