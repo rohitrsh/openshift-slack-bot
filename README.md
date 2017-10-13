@@ -1,8 +1,8 @@
-# hubot-openshift-slack-bot
+## hubot-openshift-slack-bot
 
-Intracts with OpenShift cli and fetch data.
+# OpenShift Slack Bot - intracts with openshift cli and posts results on Slack
 
-See [`src/openshift-slack-bot.coffee`](src/openshift-slack-bot.coffee) for full documentation.
+
 
 ## Installation
 
