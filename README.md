@@ -10,17 +10,17 @@
 
 1. In hubot project repo, run:
 
-`npm install hubot-openshift-slack-bot --save`
+   `npm install hubot-openshift-slack-bot --save`
 
 2. Install and copy oc cli into `/usr/bin`
 
 3. Then add **hubot-openshift-slack-bot** to your `external-scripts.json`:
 
-```json
-[
-  "hubot-openshift-slack-bot"
-]
-```
+   ```json
+      [
+        "hubot-openshift-slack-bot"
+      ]
+    ```
 4. Start hubot and export `KUBECONFIG` variable pointing to your `admin.kubeconfig` file.
 
 5. Type `!oc help` to get all the available commands
